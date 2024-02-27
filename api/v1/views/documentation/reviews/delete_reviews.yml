@@ -1,4 +1,4 @@
-    Deletes a review based on the id provided
+ a review based on the id provided
     ---
     tags:
       - Reviews
@@ -13,4 +13,3 @@
         description: Review not found!
       200:
         description: Deletion request sucessful
-

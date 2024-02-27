@@ -1,4 +1,4 @@
-eves a list of all users.
+retrieves a list of all users.
 ---
 tags:
   - Users
@@ -33,4 +33,3 @@ responses:
           last_name:
              type: string
              description: user's last name
-

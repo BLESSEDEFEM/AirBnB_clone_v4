@@ -24,4 +24,3 @@
         description: Not a valid JSON or missing name
       201:
         description: Request completed successfully
-

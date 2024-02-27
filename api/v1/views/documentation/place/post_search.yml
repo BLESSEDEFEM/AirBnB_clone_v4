@@ -31,4 +31,3 @@
         description: Not a valid JSON
       200:
         description: Successful request
-

@@ -57,4 +57,3 @@ responses:
 
   404:
     description: City not found
-

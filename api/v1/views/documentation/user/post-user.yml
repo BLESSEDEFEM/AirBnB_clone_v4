@@ -20,4 +20,3 @@
         description: Missing email/password or not a JSON
       201:
         description: successfully created user
-

@@ -13,4 +13,3 @@
         description: City  not found!
       200:
         description: Request completed successfully
-

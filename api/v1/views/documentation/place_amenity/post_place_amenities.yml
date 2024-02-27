@@ -22,4 +22,3 @@
         description: Successful request
       200:
         description: Amenity already linked to Place
-

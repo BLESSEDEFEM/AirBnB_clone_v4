@@ -1,4 +1,4 @@
- the review info based on ID
+    Updates the review info based on ID
     ---
     tags:
       - Reviews
@@ -23,4 +23,3 @@
          description: Not a Valid JSON
       200:
         description: Successful request
-

@@ -17,4 +17,3 @@
         description: user not found!
       200:
         description: request executed successfully
-

@@ -29,4 +29,3 @@ responses:
         name:
            type: string
            description: amenity name
-

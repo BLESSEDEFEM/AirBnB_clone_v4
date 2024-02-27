@@ -18,4 +18,3 @@
         description: place not found / amenity not found / amenity not found in place
       200:
         description: request executed successfully
-

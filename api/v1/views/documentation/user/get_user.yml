@@ -38,4 +38,3 @@ responses:
         last_name:
            type: string
            description: user's last name
-

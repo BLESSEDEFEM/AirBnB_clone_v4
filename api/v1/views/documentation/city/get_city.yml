@@ -30,4 +30,3 @@ responses:
         name:
            type: string
            description: city name
-
